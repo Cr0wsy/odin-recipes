@@ -1,1 +1,1 @@
-# odin-recipes
+i have learned so much from this basic html course, from creating the index.html, to creating paragraphs, to boiler plates, to linking to other web pages, to images.
