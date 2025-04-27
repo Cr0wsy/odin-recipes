@@ -1,0 +1,22 @@
+html { 
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(213, 140, 153);
+    font-family: sans-serif;
+}
+
+.block {
+    background-color: rgb(122, 117, 117);
+    display: block;
+    border: 2px solid black;
+    margin-bottom: 8px;
+    padding: 5px 8px;
+}
